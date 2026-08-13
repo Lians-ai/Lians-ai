@@ -16,6 +16,8 @@
   <a href="https://www.lians.ai/docs">Read the docs</a>
   ·
   <a href="https://lians-memory.hashnode.dev/give-any-ai-agent-persistent-memory-locally">Five-minute setup</a>
+  ·
+  <a href="https://github.com/Lians-ai"><strong>Follow @Lians-ai</strong></a>
 </p>
 
 Lians gives AI agents durable memory across chats, sessions, tools, and models. Your agent stays the same; Lians gives it a shared place to remember.
@@ -27,7 +29,13 @@ Lians gives AI agents durable memory across chats, sessions, tools, and models. 
 
 ### Try the two-chat test
 
-Add Lians to a compatible agent, then say:
+Gemini CLI users can install Lians directly from GitHub:
+
+```bash
+gemini extensions install https://github.com/Lians-ai/Lians
+```
+
+In any compatible agent with Lians configured, say:
 
 ```text
 Remember that this project uses Python 3.12 and pytest.
