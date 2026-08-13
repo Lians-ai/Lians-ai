@@ -17,6 +17,8 @@
   ·
   <a href="https://lians-memory.hashnode.dev/give-any-ai-agent-persistent-memory-locally">Five-minute setup</a>
   ·
+  <a href="https://www.lians.ai/pricing?utm_source=github&utm_medium=organization_profile&utm_campaign=personal_launch"><strong>Free or $10 managed</strong></a>
+  ·
   <a href="https://github.com/Lians-ai"><strong>Follow @Lians-ai</strong></a>
 </p>
 
@@ -26,6 +28,17 @@ Lians gives AI agents durable memory across chats, sessions, tools, and models. 
 - Works through MCP, plugins, and Python, TypeScript, Java, Go, or C SDKs.
 - Lets people inspect, correct, and explicitly delete stored memory.
 - Licensed under Apache 2.0 and developed in public.
+
+### Start free or skip the server setup
+
+- **Community is free:** run Lians locally or self-host it with no Lians
+  account, API key, or software license fee.
+- **Lians Personal is $10/month:** use a managed private memory workspace with
+  100,000 writes and 50,000 recalls each month, memory controls, exports, and
+  email setup support. Cancel anytime.
+
+[Install locally for free](https://github.com/Lians-ai/Lians?utm_source=github&utm_medium=organization_profile&utm_campaign=personal_launch)
+or [see Lians Personal](https://www.lians.ai/pricing?utm_source=github&utm_medium=organization_profile&utm_campaign=personal_launch).
 
 ### Try the two-chat test
 
