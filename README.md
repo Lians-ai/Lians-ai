@@ -23,11 +23,13 @@
 Lians gives AI agents durable memory across chats, sessions, tools, and models. Your agent stays the same; Lians gives it a shared place to remember.
 
 - Runs locally with SQLite and needs no Lians account or API key.
-- Works through MCP, plugins, and Python or TypeScript SDKs.
+- Works through MCP, plugins, and Python, TypeScript, Java, Go, or C SDKs.
 - Lets people inspect, correct, and explicitly delete stored memory.
 - Licensed under Apache 2.0 and developed in public.
 
 ### Try the two-chat test
+
+Choose your agent: [Cursor](https://github.com/Lians-ai/Lians/tree/master/integrations/cursor) · [Gemini CLI](https://github.com/Lians-ai/Lians/tree/master/integrations/gemini) · [Claude Code](https://github.com/Lians-ai/Lians/tree/master/integrations/lians-plugin) · [OpenCode](https://github.com/Lians-ai/Lians/tree/master/integrations/opencode) · [Codex](https://github.com/Lians-ai/Lians/tree/master/plugins/lians-memory).
 
 Gemini CLI users can install Lians directly from GitHub:
 
