@@ -15,6 +15,8 @@
   ·
   <a href="https://www.lians.ai/docs">Read the docs</a>
   ·
+  <a href="https://lians-memory.hashnode.dev/does-your-ai-actually-remember-you-try-this-three-minute-test?utm_source=github&utm_medium=organization_profile&utm_campaign=consumer_memory_test"><strong>Three-minute test</strong></a>
+  ·
   <a href="https://lians-memory.hashnode.dev/give-any-ai-agent-persistent-memory-locally">Five-minute setup</a>
   ·
   <a href="https://www.lians.ai/pricing?utm_source=github&utm_medium=organization_profile&utm_campaign=personal_launch"><strong>Free or $10 managed</strong></a>
@@ -41,6 +43,8 @@ Lians gives AI agents durable memory across chats, sessions, tools, and models. 
 or [see Lians Personal](https://www.lians.ai/pricing?utm_source=github&utm_medium=organization_profile&utm_campaign=personal_launch).
 
 ### Try the two-chat test
+
+New to AI memory? Start with the [plain-language three-minute test](https://lians-memory.hashnode.dev/does-your-ai-actually-remember-you-try-this-three-minute-test?utm_source=github&utm_medium=organization_profile&utm_campaign=consumer_memory_test), then use the setup links below with the AI tool you already have.
 
 Choose your agent: [Cursor](https://github.com/Lians-ai/Lians/tree/master/integrations/cursor) · [Gemini CLI](https://github.com/Lians-ai/Lians/tree/master/integrations/gemini) · [Claude Code](https://github.com/Lians-ai/Lians/tree/master/integrations/lians-plugin) · [OpenCode](https://github.com/Lians-ai/Lians/tree/master/integrations/opencode) · [Codex](https://github.com/Lians-ai/Lians/tree/master/plugins/lians-memory).
 
